@@ -1,0 +1,13 @@
+.column {
+width: 30%;
+float: left;
+text-align: justify;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+body{
+  background-color: #C9ADA7;
+  padding-top: 10px;
+  width: 100%;
+}
