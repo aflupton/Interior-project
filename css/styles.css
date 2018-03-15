@@ -8,10 +8,37 @@ margin: 12px;
 border: 2px solid #944743;
 padding: 4px;
 background-color: #B4B7BA;
+display: inline-block;
+}
+.main {
+  width: 100%;
+  display: inline-block;
+  border-color: red;
 }
 body{
   background-color: #C9ADA7;
   padding-top: 10px;
   padding-left: 10px;
   width: 100%;
+}
+
+img{
+  width:70%;
+  height:auto;
+  position:center;
+}
+
+div.center h3{
+  text-align: center;
+}
+
+div.contain{
+  text-align: center;
+}
+
+div.center img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
